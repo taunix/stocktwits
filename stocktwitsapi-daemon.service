@@ -1,0 +1,15 @@
+[Unit]
+Description=Runs stocktwits go program to get stocktwits messages.
+Documentation=https://paulgorman.org/technical/blog/20171121184114.html
+Wants=network.target
+After=network.target
+
+[Service]
+Type=simple
+DynamicUser=yes
+ExecStart=/usr/local/bin/stocktwits
+Restart=always
+RestartSec=3
+
+[Install]
+WantedBy=multi-user.target
