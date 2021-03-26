@@ -71,6 +71,8 @@ github.com/stretchr/testify v1.3.0/go.mod h1:M5WIy9Dh21IEIfnGCwXGc5bZfKNJtfHm1UV
 github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/taunix/gogetstocktwits v1.0.1 h1:Ijom86t7Gn/+MTgNz1dJ1pyJZTHEZSLj8vlwbmfaqQA=
 github.com/taunix/gogetstocktwits v1.0.1/go.mod h1:Frb9gRqbClz1xxH7elhoStoHkisgp0TF+3u0DPBtUds=
+github.com/taunix/stocktwitsapi v1.0.4 h1:SSPEJ7SDo3gy7XE0vrA7iJeHDZEUvu8VdUl8KcsDo6Y=
+github.com/taunix/stocktwitsapi v1.0.4/go.mod h1:ch31I9IErlWM0hzWoOMgnE35KwZIyr9fSmpJzeCultg=
 github.com/tidwall/pretty v1.0.0/go.mod h1:XNkn88O1ChpSDQmQeStsy+sBenx6DDtFZJxhVysOjyk=
 github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c h1:u40Z8hqBAAQyv+vATcGgV0YCnDjqSL7/q/JyPhhJSPk=
 github.com/xdg/scram v0.0.0-20180814205039-7eeb5667e42c/go.mod h1:lB8K/P019DLNhemzwFU4jHLhdvlE6uDZjXFejJXr49I=
